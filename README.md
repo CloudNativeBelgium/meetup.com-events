@@ -1,6 +1,6 @@
 # 🇧🇪 Cloud Native Belgium
 
-Welcome to the official GitHub space of **Cloud Native Belgium**, a community-driven meetup group focused on Cloud Native technologies, Kubernetes, CNCF projects, DevOps, and beyond.
+Welcome to the GitHub space of **Cloud Native Belgium**, a community-driven meetup group focused on Cloud Native technologies, Kubernetes, CNCF projects, DevOps, and beyond.
 
 We gather engineers, architects, students and technology enthusiasts who want to:
 - Share knowledge
