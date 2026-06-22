@@ -1,5 +1,5 @@
 ## Event details
-📍 Hosted at ING · April 9, 2025
+📍 Hosted at ING · April 9, 2026
 
 🔗 [View on meetup.com](https://www.meetup.com/cloudnative-belgium/events/313630392/)
 
